@@ -13,7 +13,7 @@
 	<script type="text/javascript">
 		var app = angular.module('App', ['btAlertMessage']);
 
-		app.controller("myController", function(btAlertMessageService,$scope,$rootScope){
+		app.controller("myController", function(btAlertMessageService,$scope){
 			$scope.showMessage = function(){
 				btAlertMessageService.showMessage("First message", "success");
 			}
