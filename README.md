@@ -1,7 +1,7 @@
 # angularjs1-btAlertMessage
 AngularJS 1.x module for easy showing a nice bootstrap alert messages...
 
-Example of use:
+**Example of use:**
 
   ...
     var app = angular.module('App', ['btAlertMessage']);
