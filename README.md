@@ -1,5 +1,5 @@
 # angularjs1-btAlertMessage
-AngularJS 1.x module for easy showing a nice bootstrap alert messages...
+AngularJS 1.x module for easy showing a nice Twitter Bootstrap alert messages...
 
 **Example of use:**
 
